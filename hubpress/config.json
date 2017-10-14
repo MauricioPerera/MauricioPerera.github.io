@@ -5,6 +5,22 @@
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://MauricioPerera.github.io",
+    "hubpress": "https://mauricioperera.github.io",
+    "theme": "//MauricioPerera.github.io/themes/casper",
+    "images": "https://MauricioPerera.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
